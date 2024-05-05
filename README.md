@@ -1,1 +1,10 @@
-# python-code-sample-9
+# 
+s = input()
+#
+if '@' in s and '.' in s:
+#
+    print('YES')
+#
+else:
+#
+    print('NO')
